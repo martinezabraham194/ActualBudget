@@ -1,0 +1,6 @@
+# Generic agent rules
+- Follow project plan and the defined workflows (plan → implement → debug → memory).
+- Always perform exhaustive search and rigorous reasoning during planning.
+- Update Memory Bank documents after planning, implementation, or debugging steps.
+- Prefer incremental, modular changes and avoid large, risky rewrites.
+- Respect repository structure and do not modify files outside the project scope without explicit instruction.
